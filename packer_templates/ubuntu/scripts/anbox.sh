@@ -8,4 +8,4 @@ apt install anbox-modules-dkms
 modprobe ashmem_linux
 modprobe binder_linux
 sudo /usr/bin/snap install --devmode --beta anbox
-apt-get install -y adb
+apt-get install -y android-tools-adb
